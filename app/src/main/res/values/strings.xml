@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Photo Organizer</string>
+    <string name="select_photos">Select Photos</string>
+    <string name="organize_photos">Organize Photos</string>
+    <string name="select_birth_date">Select Birth Date</string>
+    <string name="birth_date_hint">Tap to select your son\'s birth date</string>
+    <string name="organize_by_age">Organize by Age</string>
+    <string name="photos_selected">%d photos selected</string>
+    <string name="no_photos_selected">No photos selected</string>
+    <string name="permission_required">Storage permission is required to organize photos</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="organization_complete">Photos organized successfully!</string>
+    <string name="organization_failed">Failed to organize photos. Please try again.</string>
+    <string name="select_all">Select All</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="month">month</string>
+    <string name="months">months</string>
+    <string name="age_folder_format">%d%s_%s</string>
+    <string name="age_folder_format_1st">1st_%s</string>
+    <string name="age_folder_format_2nd">2nd_%s</string>
+    <string name="age_folder_format_3rd">3rd_%s</string>
+    <string name="age_folder_format_other">%dth_%s</string>
+</resources>
