@@ -120,3 +120,4 @@ object PhotoUtils {
         contentResolver.insert(MediaStore.Images.Media.EXTERNAL_CONTENT_URI, values)
     }
 }
+

@@ -9,3 +9,4 @@ data class PhotoItem(
     val date: Date,
     var isSelected: Boolean = false
 )
+

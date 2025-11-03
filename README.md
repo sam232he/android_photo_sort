@@ -68,3 +68,4 @@ Pictures/Son_Photos/
 - The app creates copies of your photos in organized folders - your original photos remain untouched
 - Photos are organized based on their EXIF data (creation date)
 - The app handles various photo formats supported by Android
+

@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Photo Organizer"
 include ':app'
+

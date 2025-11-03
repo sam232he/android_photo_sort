@@ -57,3 +57,4 @@ class PhotoAdapter(
     
     override fun getItemCount(): Int = photos.size
 }
+
